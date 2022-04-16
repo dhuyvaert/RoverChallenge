@@ -1,5 +1,5 @@
 ﻿***Vehicle Commander Application***
-***Execuate application***
+***Execute application***
 This .NET5 Application can be run directly in Visual Studio or using PowerShell to build the project and execute the application.
 To use the Powershell command, navigate to the directory of this source code and run dotnet build. This will create a bin file within the directory and an
 EXE file called VehicleCommander.exe. Double click this application to run.
